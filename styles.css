@@ -2,3 +2,5 @@
 
 /* Hide browser tabs and address bar in the Mini SOC preview. */
 .minisoc-screen{width:100%;overflow:hidden;box-shadow:0 9px 20px #47607825}.minisoc .minisoc-screen img{display:block;width:100%;height:auto;max-height:none;margin-top:-4.5%;filter:none}
+
+.http-app-preview{display:block;width:100%}.http .http-app-preview img{display:block;width:100%;height:auto;max-height:none;filter:none;box-shadow:0 12px 28px #47607825}
